@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-router/static/css/main.403a877e.css",
+    "main.js": "/react-router/static/js/main.f3d0a258.js",
+    "static/js/787.8fedd6c6.chunk.js": "/react-router/static/js/787.8fedd6c6.chunk.js",
+    "static/media/earth.gif": "/react-router/static/media/earth.a98a0d9365c63b092f5c.gif",
+    "static/media/404-error.gif": "/react-router/static/media/404-error.8dad97c6ca87d8ccb554.gif",
+    "static/media/contact-us.gif": "/react-router/static/media/contact-us.7f75e7b3ce7bcc79161e.gif",
+    "static/media/fa-solid-900.ttf": "/react-router/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/react-router/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/react-router/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/react-router/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/react-router/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/wild-life.jpg": "/react-router/static/media/wild-life.0fae063bfd0d86657ae4.jpg",
+    "static/media/fa-regular-400.woff2": "/react-router/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/photographer-holding-camera.avif": "/react-router/static/media/photographer-holding-camera.302a3904e8a706554845.avif",
+    "static/media/fa-v4compatibility.ttf": "/react-router/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-router/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/react-router/index.html",
+    "main.403a877e.css.map": "/react-router/static/css/main.403a877e.css.map",
+    "main.f3d0a258.js.map": "/react-router/static/js/main.f3d0a258.js.map",
+    "787.8fedd6c6.chunk.js.map": "/react-router/static/js/787.8fedd6c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403a877e.css",
+    "static/js/main.f3d0a258.js"
+  ]
+}
